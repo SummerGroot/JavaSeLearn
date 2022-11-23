@@ -22,6 +22,10 @@ public class HomeWork04 {
         double score = 98.9;
         char gender = '男';
         String like = "篮球";
-        System.out.println("姓名：" + name + "\n" + "年龄：" + age + "\n" + "成绩：" + score + "\n" + "性别：" + gender + "\n" + "爱好：" + like + "\n");
+        System.out.println("姓名：" + name + "\n" +
+                "年龄：" + age + "\n" +
+                "成绩：" + score + "\n" +
+                "性别：" + gender + "\n" +
+                "爱好：" + like + "\n");
     }
 }
