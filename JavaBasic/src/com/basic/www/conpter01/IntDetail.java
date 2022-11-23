@@ -7,7 +7,7 @@ package com.basic.www.conpter01;
  * @date: 2022-11-18 16:39
  */
 public class IntDetail {
-    public static void main(String[] args) {
+    public static void main(StringToBasicDetail[] args) {
         int n1 = 1;
         long n2 = 1L;
         System.out.println(n2);

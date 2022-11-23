@@ -7,7 +7,7 @@ package com.basic.www.conpter01;
  * @date: 2022-11-23 17:16
  */
 public class Boolean {
-    public static void main(String[] args) {
+    public static void main(StringToBasicDetail[] args) {
         //定义一个布尔变量
         boolean pass = true;
         if(pass == true){

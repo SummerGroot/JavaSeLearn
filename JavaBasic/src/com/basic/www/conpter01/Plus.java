@@ -7,7 +7,7 @@ package com.basic.www.conpter01;
  * @date: 2022-11-18 16:00
  */
 public class Plus {
-    public static void main(String[] args) {
+    public static void main(StringToBasicDetail[] args) {
         System.out.println(100+98);//198
         System.out.println("100"+98);//10098
         System.out.println(100+3+"hello");//1003hello

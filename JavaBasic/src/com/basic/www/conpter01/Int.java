@@ -7,7 +7,7 @@ package com.basic.www.conpter01;
  * @date: 2022-11-18 16:25
  */
 public class Int {
-    public static void main(String[] args) {
+    public static void main(StringToBasicDetail[] args) {
         byte n1 = 10;
         short n2 = 10;
         int n3 = 10;

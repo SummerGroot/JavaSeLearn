@@ -8,7 +8,7 @@ package com.basic.www.conpter01;
  */
 public class Char01 {
     //演示char的基本使用
-    public static void main(String[] args) {
+    public static void main(StringToBasicDetail[] args) {
         char c1 = 'a';
         char c2 = '\t';
         char c3 = '夏';

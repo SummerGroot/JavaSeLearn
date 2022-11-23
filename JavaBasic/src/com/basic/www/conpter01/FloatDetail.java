@@ -7,7 +7,7 @@ package com.basic.www.conpter01;
  * @date: 2022-11-18 17:07
  */
 public class FloatDetail {
-    public static void main(String[] args) {
+    public static void main(StringToBasicDetail[] args) {
         /*float num1 = 1.1F;
         double num2 = 1.1;
         double num3 = 2.1234567851;
