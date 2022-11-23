@@ -11,12 +11,12 @@ public class CharDetail {
         char c1 = 97;
         System.out.println(c1);//a
         char c2 = 'a';
-        System.out.println((int)c2);
+        System.out.println((int) c2);
         char c3 = '夏';
-        System.out.println((int)c3);//22799
-        System.out.println((char)(c2 + 10));//107
-        char c5 ='b'+1;
-        System.out.println((int)c5);//99
+        System.out.println((int) c3);//22799
+        System.out.println((char) (c2 + 10));//107
+        char c5 = 'b' + 1;
+        System.out.println((int) c5);//99
         System.out.println(c5);//c
     }
 }
