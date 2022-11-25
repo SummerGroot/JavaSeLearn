@@ -26,6 +26,6 @@ public class HomeWork04 {
                 "年龄：" + age + "\n" +
                 "成绩：" + score + "\n" +
                 "性别：" + gender + "\n" +
-                "爱好：" + like + "\n");
+                 "爱好：" + like + "\n");
     }
 }
