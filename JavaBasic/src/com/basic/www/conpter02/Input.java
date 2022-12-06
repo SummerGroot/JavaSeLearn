@@ -18,13 +18,15 @@ public class Input {
          * 2、创建Scanner对象,new 创建一个对象
          * 3、接收用户的输入了，使用相关的方法*/
         Scanner myScanner = new Scanner(System.in);
-        System.out.println("请输入名字：");
-        //当程序执行到 next()方法时，会等待用户输入~~~
-        String name = myScanner.next();//接受用户输入字符串
-        System.out.println("清输入年龄：");
-        int age = myScanner.nextInt();//接受用户输入int
-        System.out.println("清输入薪水：");
-        double sal = myScanner.nextDouble();
-        System.out.println("名字："+name+"\n年龄："+age+"\n薪水："+sal);
+        //System.out.println("请输入名字：");
+        ////当程序执行到 next()方法时，会等待用户输入~~~
+        //String name = myScanner.next();//接受用户输入字符串
+        //System.out.println("清输入年龄：");
+        //int age = myScanner.nextInt();//接受用户输入int
+        //System.out.println("清输入薪水：");
+        //double sal = myScanner.nextDouble();
+        //System.out.println("名字："+name+"\n年龄："+age+"\n薪水："+sal);
+        char c1 = myScanner.next().charAt(0);//a
+        System.out.println(c1);//a
     }
 }
