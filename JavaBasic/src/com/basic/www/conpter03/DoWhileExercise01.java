@@ -17,6 +17,7 @@ public class DoWhileExercise01 {
                 System.out.println(i+"\t"+num);
             }
             i++;
+
         } while (i <= 200);
         System.out.println(num);
     }
