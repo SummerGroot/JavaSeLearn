@@ -27,8 +27,12 @@ public class Stars {
          * ****
          * *****
          * */
-        for (int i = 0; i <= 5; i++) {
-            System.out.println("*****");
+        for (int i = 0; i <= 5; i++) {//i表示层数
+            //控制打印每层星的个数
+            for (int j = 1; j < 5; j++) {
+
+            }
+            System.out.println("*");
         }
     }
 }
