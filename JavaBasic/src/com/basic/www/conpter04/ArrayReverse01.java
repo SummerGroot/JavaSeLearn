@@ -6,7 +6,7 @@ package com.basic.www.conpter04;
  * @description:
  * @date: 2022-12-22 16:35
  */
-public class ArrayReverse {
+public class ArrayReverse01 {
     public static void main(String[] args) {
         //定义一个数组
         int[] arr = {11, 22, 33, 44, 55, 66};
@@ -28,7 +28,5 @@ public class ArrayReverse {
         for (int i = 0; i < len; i++) {
             System.out.print(arr[i]+"\t");//66	55	44	33	22	11
         }
-
-
     }
 }
