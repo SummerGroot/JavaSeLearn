@@ -79,9 +79,3 @@ d
 4JavaBasic/src/com/basic/www/conpter04/SeqSearch.java,4\d\4df7068096e9f9acb0b914e464567b5f6f6ed2b7
 f
 6JavaBasic/src/com/basic/www/conpter04/ArrayReduce.java,6\0\60942cf209a8f4533d859da9cab9dd4b6c883d52
-p
-@JavaBasic/src/com/basic/www/conpter04/TwoDimensionalArray03.java,9\e\9eb14498fab15ef2fe16750ce5a4c73de6b9445f
-p
-@JavaBasic/src/com/basic/www/conpter04/TwoDimensionalArray01.java,9\8\988646e2c5224f7fe3f68491400eab4d08455873
-p
-@JavaBasic/src/com/basic/www/conpter04/TwoDimensionalArray02.java,3\3\33ec4a350f3be07dbe8e5cf7aa7bd74ff059158d
